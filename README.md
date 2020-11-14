@@ -1,6 +1,6 @@
 # Black-box-Adversarial-Reprogramming
 
-This is the repo for **Transfer Learning without Knowing: Reprogramming Black-box Machine Learning Models with Scarce Data and Limited Resources**, Yun-Yun Tsai, Pin-Yu Chen, Tsung-Yi Ho**, in Proceeding of **[International Conference on Machine Learning (ICML)](https://icml.cc/), 2020**. Our code is implemented in Python 3.6 and Tensorflow 1.14. 
+This is the repo for **Transfer Learning without Knowing: Reprogramming Black-box Machine Learning Models with Scarce Data and Limited Resources, Yun-Yun Tsai, Pin-Yu Chen, Tsung-Yi Ho**, in Proceeding of **[International Conference on Machine Learning (ICML)](https://icml.cc/), 2020**. Our code is implemented in Python 3.6 and Tensorflow 1.14. 
 
 The following figure illustrates the framework for our proposed black-box adversarial reprogramming method (BAR): <br/>
 ![Alt text](https://user-images.githubusercontent.com/20013955/89761762-b2e55880-db21-11ea-93f8-db0cef7800c3.png)<br/>
