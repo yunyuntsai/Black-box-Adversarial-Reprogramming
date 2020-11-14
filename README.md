@@ -11,8 +11,7 @@ The following figure illustrates the framework for our proposed black-box advers
 2. Find _q_ pertubed adversarial programs with vectors that are uniformly drawn at random
 from a unit Euclidean sphere. <br/>
 
-3. Estimate gradient with zeroth-order gradient estimator. 
-  * The corresponding algorithmic convergence guarantees have been proved in both the convex loss and non-convex loss settings [(Liu et al., 2018; 2019)](https://arxiv.org/pdf/1805.10367.pdf).<br/> 
+3. Estimate gradient with zeroth-order gradient estimator. The corresponding algorithmic convergence guarantees have been proved in both the convex loss and non-convex loss settings [(Liu et al., 2018; 2019)](https://arxiv.org/pdf/1805.10367.pdf).<br/> 
 
 4. Optimize adversarial program’s parameters _W_. <br/>
 
